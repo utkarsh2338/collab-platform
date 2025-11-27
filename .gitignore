@@ -1,0 +1,18 @@
+# Root ignores
+node_modules/
+.env
+.env.local
+dist/
+build/
+
+# Backend-specific
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/build/
+
+# Frontend-specific
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
